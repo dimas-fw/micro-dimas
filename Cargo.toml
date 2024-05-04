@@ -1,0 +1,21 @@
+[package]
+resolver="2"
+name = "micro-dimas"
+version = "0.0.0"
+edition = "2021"
+authors = [
+	"stepkun <stephan.kunz@kabelbw.de>",
+]
+#license = "NGMC"
+license-file = "LICENSE"
+keywords = ["automation", "mas", "mcu", "microcontroller", "robots", "robotics"]
+categories = [
+	"development-tools",
+	"network-programming",
+	"science::robotics",
+	"simulation"
+]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
