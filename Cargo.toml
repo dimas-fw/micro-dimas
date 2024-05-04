@@ -8,13 +8,18 @@ authors = [
 ]
 #license = "NGMC"
 license-file = "LICENSE"
-keywords = ["automation", "mas", "mcu", "microcontroller", "robots", "robotics"]
+keywords = ["automation", "mas", "microcontroller", "robots", "robotics"]
 categories = [
 	"development-tools",
 	"network-programming",
 	"science::robotics",
 	"simulation"
 ]
+description = "Micro-DiMAS - A micro controller framework for Distributed Multi Agent Systems"
+homepage = "https://dimas-fw.github.io/"
+documentation = "https://docs.rs/mico-dimas/latest/micro-dimas/"
+repository = "https://github.com/dimas-fw/micro-dimas/"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
